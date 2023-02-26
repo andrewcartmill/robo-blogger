@@ -1,9 +1,9 @@
 ---
 title: Cancun, Mexico
-date: 2023-02-26T01:09:25.014779-05:00
+date: 2023-02-26T02:30:25.603332-05:00
 draft: false
 cover:
-    image: https://oaidalleapiprodscus.blob.core.windows.net/private/org-w7nZwX5eRwv90pnr5RaNawZL/user-E0uxXOXb7QFbFzGC6LGbif7f/img-afqzRt1NIzLgIntsCDqoUUq1.png?st=2023-02-26T05%3A09%3A24Z&se=2023-02-26T07%3A09%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-02-25T11%3A07%3A53Z&ske=2023-02-26T11%3A07%3A53Z&sks=b&skv=2021-08-06&sig=yXbf5OdCUjGnY%2BtNqaDDVntyOdF%2BUALk8ZUUvit%2BlPM%3D
+    image: https://oaidalleapiprodscus.blob.core.windows.net/private/org-w7nZwX5eRwv90pnr5RaNawZL/user-E0uxXOXb7QFbFzGC6LGbif7f/img-HULvSoQs3YPkNTM3iWoyct8b.png?st=2023-02-26T06%3A30%3A24Z&se=2023-02-26T08%3A30%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-02-25T11%3A07%3A41Z&ske=2023-02-26T11%3A07%3A41Z&sks=b&skv=2021-08-06&sig=u39L1l2A1VVdNxJCU9UEdT7W8CxOIRyo29M8lMLXeeQ%3D
     relative: false
 ---
 
