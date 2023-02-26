@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Robo Blogger'
+theme = 'PaperMod'
+#enableGitInfo = true
